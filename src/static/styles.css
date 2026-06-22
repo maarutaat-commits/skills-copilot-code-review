@@ -666,6 +666,7 @@ footer {
 }
 
 .announcement-banner {
+  /* COPILOT_REVIEW_DEMO: do not commit before requesting Copilot review */
   background-color: var(--success);
   color: white;
   text-align: center;
